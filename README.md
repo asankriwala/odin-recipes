@@ -1,2 +1,3 @@
 # odin-recipes
 
+I have used anchor tags in my index page to link to 3 different recipe pages. These recipe pages contain an image of the finish dish along with an ingredients list and an ordered step by step instructions on how to make the dish. This has required me to use headings, ordered and unordered lists as well as adding src attributes to img tags where I have had to access the image by going out of the current directory and into the image directory.
